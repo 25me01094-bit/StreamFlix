@@ -1,0 +1,1001 @@
+[
+    {
+        "id":1,
+        "poster":"https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "title":"INTERSTELLAR",
+        "year":"2014",
+        "rating":"PG-13",
+        "genre":["Sci-Fi","Adventure","Drama"],
+        "plot" :"When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans."
+    },
+    {
+        "id":2,
+        "poster":"https://rukminim2.flixcart.com/image/480/640/jr6o13k0/poster/p/n/7/medium-hope-shawshank-redemption-poster-for-room-office-13-inch-original-imafdfbysget3wb4.jpeg?q=90",
+        "title":"THE SHAWSHANK REDEMPTION",
+        "year":"1994",
+        "rating":"R",
+        "genre":["Drama"],
+        "plot":"A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion."
+    },
+    {
+        "id":3,
+        "poster":"https://m.media-amazon.com/images/I/61k7Mx2IjzL._AC_UF894,1000_QL80_.jpg",
+        "title":"THE GODFATHER",
+        "year":"1972",
+        "rating":"R",
+        "genre":["Crime","Drama"],
+        "plot":"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+    },
+    {
+        "id":4,
+        "poster":"https://m.media-amazon.com/images/I/81IfoBox2TL.jpg",
+        "title":"THE DARK KNIGHT",
+        "year":"2008",
+        "rating":"PG-13",
+        "genre":["Crime","Drama","Action"],
+        "plot":"When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness."
+    },
+    {
+        "id":5,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/Godfather_II_-_Al_Pacino_-_Tallenge_Hollywood_Cult_Classics_Movie_Poster_00bb57af-7a2f-4eb6-80e5-7c75d58e5ff1.jpg?v=1570155954",
+        "title":"THE GODFATHER PART-II",
+        "year":"1974",
+        "rating":"R",
+        "genre":["Crime","Drama"],
+        "plot":"The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+    },
+    {
+        "id":6,
+        "poster":"https://i.etsystatic.com/35599031/r/il/79d20e/3933333385/il_fullxfull.3933333385_h6km.jpg",
+        "title":"12 ANGRY MEN",
+        "year":"1957",
+        "rating":"Approved",
+        "genre":["Crime","Drama"],
+        "plot":"The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict."
+    },
+    {
+        "id":7,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/LordOfTheRings-TheReturnOfTheKing-HollywoodMoviePoster_fbefcb50-5c3a-421c-83a5-40d84606a4c1.jpg?v=1630764730",
+        "title":"THE LORD OF THE RINGS: THE RETURN OF THE KING",
+        "year":"2003",
+        "rating":"PG-13",
+        "genre":["Drama","Adventure","Fantasy"],
+        "plot":"Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+    },
+    {
+        "id":8,
+        "poster":"https://www.tallengestore.com/cdn/shop/files/SchindlersList_1993_-StevenSpielberg-HollywoodClassicWarMoviePoster_b642693c-19d3-44db-a29c-944928826c3c.jpg?v=1732608511",
+        "title":"SCHINDLER'S LIST",
+        "year":"1993",
+        "rating":"R",
+        "genre":["Drama","History","Biography"],
+        "plot":"In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+    },
+    {
+        "id":9,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/LordOfTheRings-FellowshipOfTheKing-HollywoodMoviePoster_c5c384eb-b783-4601-9d22-bcf555412e02.jpg?v=1630764626",
+        "title":"THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING",
+        "year":"2001",
+        "rating":"PG-13",
+        "genre":["Adventure","Drama","Fantasy"],
+        "plot":"A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+    },
+    {
+        "id":10,
+        "poster":"https://images-cdn.ubuy.co.in/634f0597a949f762ec7ccf33-pulp-fiction-movie-poster-24-x-36-inches.jpg",
+        "title":"PULP FICTION",
+        "year":"1994",
+        "rating":"R",
+        "genre":["Crime","Drama"],
+        "plot":"The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    {
+        "id":11,
+        "poster":"https://images-cdn.ubuy.co.in/653a02de524b425ff512c00a-the-good-the-bad-and-the-ugly-poster.jpg",
+        "title":"THE GOOD, THE BAD AND THE UGLY",
+        "year":"1966",
+        "rating":"R",
+        "genre":["Adventure","Drama","Western"],
+        "plot":"A bounty-hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+    },
+    {
+        "id":12,
+        "poster":"https://i.etsystatic.com/12729518/r/il/e4a016/2000118122/il_570xN.2000118122_bwlu.jpg",
+        "title":"THE LORD OF THE RINGS: THE TWO TOWERS",
+        "year":"2002",
+        "rating":"PG-13",
+        "genre":["Adventure","Drama","Fantasy"],
+        "plot":"While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
+    },
+    {
+        "id":13,
+        "poster":"https://images-cdn.ubuy.co.in/6341130b59f5d1339534ead5-forrest-gump-movie-poster-regular.jpg",
+        "title":"FORREST GUMP",
+        "year":"1994",
+        "rating":"PG-13",
+        "genre":["Drama","Romance"],
+        "plot":"The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart."
+    },
+    {
+        "id":14,
+        "poster":"https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "title":"FIGHT CLUB",
+        "year":"1999",
+        "rating":"R",
+        "genre":["Crime","Drama","Thriller"],
+        "plot":"An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+    },
+    {
+        "id":15,
+        "poster":"https://rukmini1.flixcart.com/image/1500/1500/j9k8ivk0/poster/2/y/t/medium-inception-poster-print-poster-on-13x19-inches-poster5111-original-imaezyyz4u8m7eyx.jpeg?q=70",
+        "title":"INCEPTION",
+        "year":"2010",
+        "rating":"PG-13",
+        "genre":["Action","Adventure","Sci-Fi"],
+        "plot":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster."
+    },
+    {
+        "id":16,
+        "poster":"https://m.media-amazon.com/images/I/813ctwUfTKL.jpg",
+        "title":"STAR WARS: EPISODE V - THE EMPIRE STRIKES BACK",
+        "year":"1980",
+        "rating":"PG",
+        "genre":["Action","Adventure","Fantasy"],
+        "plot":"After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy."
+    },
+    {
+        "id":17,
+        "poster":"https://m.media-amazon.com/images/I/71PfZFFz9yL.jpg",
+        "title":"THE MATRIX",
+        "year":"1999",
+        "rating":"R",
+        "genre":["Action","Sci-Fi"],
+        "plot":"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
+    },
+    {
+        "id":18,
+        "poster":"https://m.media-amazon.com/images/I/81uOV6oMYtL.jpg",
+        "title":"GOODFELLAS",
+        "year":"1990",
+        "rating":"R",
+        "genre":["Biography","Crime","Drama"],
+        "plot":"The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito."
+    },
+    {
+        "id":19,
+        "poster":"https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "title":"ONE FLEW OVER THE CUCKOO'S NEST",
+        "year":"1975",
+        "rating":"R",
+        "genre":["Drama"],
+        "plot":"A rebellious convict is sent to a psychiatric hospital for evaluation in 1963 Oregon, and encourages his docile companions to take more control of their lives and defy the tyrannical head nurse."
+    },
+    {
+        "id":20,
+        "poster":"https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_.jpg",
+        "title":"SEVEN",
+        "year":"1995",
+        "rating":"R",
+        "genre":["Crime","Drama","Mystery"],
+        "plot":"Two detectives try to track down a serial killer who chooses his victims based on the Seven Deadly Sins."
+    },{
+        "id":21,
+        "poster":"https://images-cdn.ubuy.co.in/63611103697cd3214a399ea3-laminated-its-a-wonderful-life-1946.jpg",
+        "title":"IT'S A WONDERFUL LIFE",
+        "year":"1946",
+        "rating":"PG",
+        "genre":["Drama","Fantasy","Family"],
+        "plot":"An angel is sent from Heaven to help a desperately frustrated businessman see the value of his own life."
+    },
+    {
+        "id":22,
+        "poster":"https://m.media-amazon.com/images/M/MV5BZTk5NTYzMGEtMDE2OS00ODYxLWJiNjQtNGMyMmM2MTE0M2QxXkEyXkFqcGc@._V1_.jpg",
+        "title":"THE SILENCE OF THE LAMBS",
+        "year":"1991",
+        "rating":"R",
+        "genre":["Crime","Drama","Horror"],
+        "plot":"A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+    },
+    {
+        "id":23,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/Seven_Samurai_-_Akira_Kurosawa_Japanese_Cinema_Masterpiece_-_Original_Theatrical_Release_Movie_Poster_f75a6109-6537-443d-a504-497424b69176.jpg?v=1583828773",
+        "title":"SEVEN SAMURAI",
+        "year":"1954",
+        "rating":"Approved",
+        "genre":["Action","Drama"],
+        "plot":"Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him."
+    },
+    {
+        "id":24,
+        "poster":"https://m.media-amazon.com/images/I/91J04fcf4VL._AC_UF894,1000_QL80_.jpg",
+        "title":"SAVING PRIVATE RYAN",
+        "year":"1998",
+        "rating":"R",
+        "genre":["Drama","War"],
+        "plot":"Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose comrades have been killed in action."
+    },
+    {
+        "id":25,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+        "title":"THE GREEN MILE",
+        "year":"1999",
+        "rating":"R",
+        "genre":["Crime","Drama","Fantasy"],
+        "plot":"A death row guard learns that a gentle giant in his charge possesses a mysterious gift."
+    },
+    {
+        "id":26,
+        "poster":"https://m.media-amazon.com/images/M/MV5BYjY4NGI5OTUtY2ZlZS00Zjk4LTk5N2MtN2JmYWVjNGNmMGRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "title":"CITY OF GOD",
+        "year":"2002",
+        "rating":"R",
+        "genre":["Crime","Drama"],
+        "plot":"In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+    },
+    {
+        "id":27,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/LifeIsBeautiful_LaVieEstBelle_-RobertoBenigni-HollywoodCultClassicMoviePoster_8c146d61-7ed1-4768-9677-42504151cb10_large.jpg?v=1612861176",
+        "title":"LIFE IS BEAUTIFUL",
+        "year":"1997",
+        "rating":"PG-13",
+        "genre":["Drama","Romance","Comedy"],
+        "plot":"When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp."
+    },
+    {
+        "id":28,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/A1s8GeNhUNL._SL1500_50c0ac5f-cc7a-4d2f-b962-9ea776fb4261.jpg?v=1514034431",
+        "title":"TERMINATOR 2: JUDGEMENT DAY",
+        "year":"1991",
+        "rating":"R",
+        "genre":["Action","Adventure","Sci-Fi"],
+        "plot":"A cyborg from the future, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from an even more advanced and powerful cyborg."
+    },
+    {
+        "id":29,
+        "poster":"https://m.media-amazon.com/images/I/A1wnJQFI82L._AC_UF1000,1000_QL80_.jpg",
+        "title":"STAR WARS: EPISODE IV - A NEW HOPE",
+        "year":"1977",
+        "rating":"PG",
+        "genre":["Action","Adventure","Fantasy"],
+        "plot":"Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    },
+    {
+        "id":30,
+        "poster":"https://static.posters.cz/image/750/2795.jpg",
+        "title":"BACK TO THE FUTURE",
+        "year":"1985",
+        "rating":"PG",
+        "genre":["Adventure","Comedy","Sci-Fi"],
+        "plot":"Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown."
+    },
+    {
+        "id":31,
+        "poster":"https://m.media-amazon.com/images/I/81m8urzEz4L.jpg",
+        "title":"SPIRITED AWAY",
+        "year":"2001",
+        "rating":"PG",
+        "genre":["Animation","Adventure","Family"],
+        "plot":"During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts."
+    },
+    {
+        "id":32,
+        "poster":"https://i.etsystatic.com/7553407/r/il/99866a/5959234339/il_570xN.5959234339_ly2d.jpg",
+        "title":"THE PIANIST",
+        "year":"2002",
+        "rating":"R",
+        "genre":["Biography","Drama","Music"],
+        "plot":"During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive."
+    },
+    {
+        "id":33,
+        "poster":"https://m.media-amazon.com/images/I/61dcMsYIAJL._AC_UF894,1000_QL80_.jpg",
+        "title":"GLADIATOR",
+        "year":"2000",
+        "rating":"R",
+        "genre":["Action","Adventure","Drama"],
+        "plot":"A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+    },
+    {
+        "id":34,
+        "poster":"https://m.media-amazon.com/images/I/81-rG+CAzuL._AC_UF894,1000_QL80_.jpg",
+        "title":"PARASITE",
+        "year":"2019",
+        "rating":"R",
+        "genre":["Drama","Thriller"],
+        "plot":"Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+    },
+    {
+        "id":35,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/GraveOfTheFireflies-StudioGhibliJapanaeseAnimatedMoviePoster_4bccd192-fabb-4bad-8829-96429899b090.jpg?v=1642160402",
+        "title":"GRAVE OF THE FIREFLIES",
+        "year":"1988",
+        "rating":"Approved",
+        "genre":["Animation","Drama","War"],
+        "plot":"A young boy and his little sister struggle to survive in Japan during World War II."
+    },
+    {
+        "id":36,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/Psycho-AlfredHitchcock1960ClassicSuspeneMovie-HollywoodMovieOriginalReleasePoster_b9be9493-f740-497e-b886-c022acb0c4f1.jpg?v=1647071441",
+        "title":"PSYCHO",
+        "year":"1960",
+        "rating":"R",
+        "genre":["Drama","Horror","Mystery"],
+        "plot":"A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother."
+    },
+    {
+        "id":37,
+        "poster":"https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg",
+        "title":"THE LION KING",
+        "year":"1994",
+        "rating":"G",
+        "genre":["Animation","Adventure","Drama"],
+        "plot":"Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+    },
+    {
+        "id":38,
+        "poster":"https://m.media-amazon.com/images/M/MV5BZThiZjU5ZDQtZDI4Mi00ZGYyLTkzOTktYmIzZTFlZTkxYzg5XkEyXkFqcGc@._V1_.jpg",
+        "title":"HARAKIRI",
+        "year":"1962",
+        "rating":"Approved",
+        "genre":["Drama","Mystery"],
+        "plot":"When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity."
+    },
+    {
+        "id":39,
+        "poster":"https://m.media-amazon.com/images/I/81PuUHy4EnL._AC_UF894,1000_QL80_.jpg",
+        "title":"THE DEPARTED",
+        "year":"2006",
+        "rating":"R",
+        "genre":["Crime","Drama","Thriller"],
+        "plot":"An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+    },
+    {
+        "id":40,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_.jpg",
+        "title":"WHIPLASH",
+        "year":"2014",
+        "rating":"R",
+        "genre":["Drama","Music"],
+        "plot":"A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential."
+    },
+       {
+        "id":41,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMTM3MzQ5MjQ5OF5BMl5BanBnXkFtZTcwMTQ3NzMzMw@@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+        "title":"THE PRESTIGE",
+        "year":"2006",
+        "rating":"PG",
+        "genre":["Drama","Mystery","Sci-Fi"],
+        "plot":"Two friends and fellow magicians become bitter enemies after a sudden tragedy. As they devote themselves to this rivalry, they make sacrifices that bring them fame but, with terrible consequences."
+    },
+    {
+        "id":42,
+        "poster":"https://upload.wikimedia.org/wikipedia/en/3/39/American_History_X_poster.png",
+        "title":"AMERICAN HISTORY X",
+        "year":"1998",
+        "rating":"R",
+        "genre":["Crime","Drama"],
+        "plot":"A white supremacist is released from prison a changed man and hopes to prevent his younger brother from following in his footsteps."
+    },
+    {
+        "id":43,
+        "poster":"https://m.media-amazon.com/images/M/MV5BZDc2YzhkODAtZmRmZS00YzcxLWJkYWEtM2ZhZjY3MmMyZmJiXkEyXkFqcGc@._V1_.jpg",
+        "title":"KILL BILL: THE WHOLE BLOODY AFFAIR",
+        "year":"2006",
+        "rating":"Approved",
+        "genre":["Action","Crime","Thriller"],
+        "plot":"A female assassin seeks revenge on her former lover and squad members, all of whom left her for dead."
+    },
+    {
+        "id":44,
+        "poster":"https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_.jpg",
+        "title":"LEON: THE PROFESSIONAL",
+        "year":"1994",
+        "rating":"R",
+        "genre":["Action","Crime","Drama"],
+        "plot":"When her family is murdered by a group of corrupt officers led by the tyrannical Norman Stansfield, a young 12-year-old girl enlists the help of an Italian-American hitman to seek revenge."
+    },
+    {
+        "id":45,
+        "poster":"https://m.media-amazon.com/images/I/81+HfwcH-lL.jpg",
+        "title":"SPIDER-MAN: ACROSS THE SPIDER-VERSE",
+        "year":"2023",
+        "rating":"PG",
+        "genre":["Animation","Action","Adventure"],
+        "plot":"Traveling across the multiverse, Miles Morales meets a new team of Spider-People, made up of heroes from different dimensions. But when the heroes clash over how to deal with a new threat, Miles finds himself at a crossroads.S"
+    },
+    {
+        "id":46,
+        "poster":"https://m.media-amazon.com/images/I/51F0hWdODLL._AC_UF894,1000_QL80_.jpg",
+        "title":"CINEMA PARADISO",
+        "year":"1988",
+        "rating":"PG",
+        "genre":["Drama","Romance"],
+        "plot":"Salvatore, a famous film director, returns to his hometown for the funeral of the local theater's film projectionist, Alfredo. He reminisces about his life as a young boy falling in love with cinema."
+    },
+    {
+        "id":47,
+        "poster":"https://i.etsystatic.com/12481230/r/il/8bf1bf/922779729/il_1080xN.922779729_rucu.jpg",
+        "title":"CASABLANCA",
+        "year":"1942",
+        "rating":"PG",
+        "genre":["Drama","Romance","War"],
+        "plot":"A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco."
+    },
+    {
+        "id":48,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
+        "title":"THE INTOUCHABLES",
+        "year":"2011",
+        "rating":"R",
+        "genre":["Comedy","Drama"],
+        "plot":"After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver."
+    },
+    {
+        "id":49,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/Cult_Movie_Fan_Art_-_The_Usual_Suspects_-_Line_Up_-_Tallenge_Hollywood_Poster_Collection_-_Copy_9b266ee8-9e1b-4c0c-af25-d0ea650c931c.jpg?v=1570086266",
+        "title":"THE USUAL SUSPECTS",
+        "year":"1995",
+        "rating":"R",
+        "genre":["Crime","Drama","Mystery"],
+        "plot":"The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup."
+    },
+    {
+        "id":50,
+        "poster":"https://i.etsystatic.com/13513569/r/il/cabd7d/1163502409/il_570xN.1163502409_53iu.jpg",
+        "title":"ALIEN",
+        "year":"1979",
+        "rating":"R",
+        "genre":["Horror","Sci-Fi"],
+        "plot":"After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform."
+    },
+    {
+        "id":51,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+        "title":"DJANGO UNCHAINED",
+        "year":"2012",
+        "rating":"R",
+        "genre":["Drama","Western"],
+        "plot":"With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi."
+    },
+    {
+        "id":52,
+        "poster":"https://i.etsystatic.com/16952472/r/il/6b55a2/1546319889/il_570xN.1546319889_fpkm.jpg",
+        "title":"MODERN TIMES",
+        "year":"1936",
+        "rating":"G",
+        "genre":["Comedy","Drama","Romance"],
+        "plot":"The Tramp struggles to live in modern industrial society with the help of a young homeless woman."
+    },
+    {
+        "id":53,
+        "poster":"https://upload.wikimedia.org/wikipedia/commons/3/38/Rear_Window_film_poster.jpg",
+        "title":"REAR WINDOW",
+        "year":"1954",
+        "rating":"PG",
+        "genre":["Drama","Mystery","Thriller"],
+        "plot":"A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder."
+    },
+    {
+        "id":54,
+        "poster":"https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1_.jpg",
+        "title":"ONCE UPON A TIME IN THE WEST",
+        "year":"1968",
+        "rating":"PG-13",
+        "genre":["Drama","Western"],
+        "plot":"A mysterious stranger with a harmonica teams up with a notorious desperado to protect a beautiful widow and her land from a ruthless assassin in the employ of a railroad tycoon."
+    },
+    {
+        "id":55,
+        "poster":"https://i.etsystatic.com/16952472/r/il/95f36c/1498875622/il_fullxfull.1498875622_k0e9.jpg",
+        "title":"CITY LIGHTS",
+        "year":"1931",
+        "rating":"G",
+        "genre":["Comedy","Drama","Romance"],
+        "plot":"With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a blind flower girl accumulates money to be able to help her medically."
+    },
+    {
+        "id": 56,
+        "poster":"https://i.etsystatic.com/16952472/r/il/184909/3321298079/il_1080xN.3321298079_6y01.jpg",
+        "title":"APOCALYPSE NOW",
+        "year":"1979",
+        "rating":"R",
+        "genre":["Drama","Mystery","War"],
+        "plot":"A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god."
+    },
+    {
+        "id": 57,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/WALL_E-HollywoodAnimationClassicMoviePoster_d980d0c0-6b23-4303-b054-cda06ef08dfc.jpg?v=1591603133",
+        "title":"WALL-E",
+        "year":"2008",
+        "rating":"G",
+        "genre":["Animation","Adventure","Family"],
+        "plot":"A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind."
+    },
+    {
+        "id": 58,
+        "poster":"https://m.media-amazon.com/images/I/71iBP705KTS.jpg",
+        "title":"MEMENTO",
+        "year":"2000",
+        "rating":"R",
+        "genre":["Drama","Mystery","Thriller"],
+        "plot":"A former insurance investigator who now suffers from anterograde amnesia uses notes and tattoos to hunt down his wife's murderer."
+    },
+    {
+        "id": 59,
+        "poster":"https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "title":"DUNE: PART TWO",
+        "year":"2024",
+        "rating":"PG-13",
+        "genre":["Action","Adventure","Drama"],
+        "plot":"Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible future."
+    },
+    {
+        "id": 60,
+        "poster":"https://m.media-amazon.com/images/I/61aq98dQXWL._AC_UF894,1000_QL80_.jpg",
+        "title":"RAIDERS OF THE LOST ARK",
+        "year":"1981",
+        "rating":"PG",
+        "genre":["Action","Adventure"],
+        "plot":"In 1936, archaeologist Indiana Jones is tasked by Army Intelligence to help locate a legendary ancient power, the Ark of Covenant, before the Nazis get it first."
+    },
+    {
+        "id": 61,
+        "poster":"https://m.media-amazon.com/images/I/71eHZFw+GlL._AC_UF894,1000_QL80_.jpg",
+        "title":"AVENGERS: INFINITY WAR",
+        "year":"2018",
+        "rating":"PG-13",
+        "genre":["Action","Adventure","Sci-Fi"],
+        "plot":"The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+    },
+    {
+        "id": 62,
+        "poster":"https://m.media-amazon.com/images/I/918jj3OEHdL.jpg",
+        "title":"THE LIVES OF OTHERS",
+        "year":"2006",
+        "rating":"R",
+        "genre":["Drama","Mystery","Thriller"],
+        "plot":"In 1984 East Berlin, an agent of the secret police conducting surveillance on a writer and his lover finds himself becoming increasingly absorbed by their lives."
+    },
+    {
+        "id": 63,
+        "poster":"https://i.etsystatic.com/39153669/r/il/c38bd3/4474958628/il_fullxfull.4474958628_tn18.jpg",
+        "title":"SPIDER-MAN: INTO THE SPIDER-VERSE",
+        "year":"2018",
+        "rating":"PG",
+        "genre":["Animation","Action","Adventure"],
+        "plot":"Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."
+    },
+    {
+        "id": 64,
+        "poster":"https://tftmmelrose.com/wp-content/uploads/2018/03/L1010213.jpg",
+        "title":"SUNSET BOULEVARD",
+        "year":"1950",
+        "rating":"Approved",
+        "genre":["Drama","Film-Noir"],
+        "plot":"A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return."
+    },
+    {
+        "id": 65,
+        "poster":"https://m.media-amazon.com/images/M/MV5BNjRhNTQzMzQtMWViMi00ODQ1LTg0MTEtYWE4ZWZlYjM4YjJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "title":"WITNESS FOR THE PROSECUTION",
+        "year":"1957",
+        "rating":"Approved",
+        "genre":["Crime","Drama","Mystery"],
+        "plot":"A veteran British barrister must defend his client in a murder trial that has surprise after surprise."
+    },
+    {
+        "id": 66,
+        "poster":"https://i.etsystatic.com/56370453/r/il/0141cb/6566557794/il_570xN.6566557794_l0e4.jpg",
+        "title":"PATHS OF GLORY",
+        "year":"1957",
+        "rating":"Approved",
+        "genre":["Drama","War"],
+        "plot":"A colonel defends three of his soldiers in a court-martial after they abandon a suicidal attack."
+    },
+    {
+        "id": 67,
+        "poster":"https://i.etsystatic.com/16821137/r/il/308993/7807643539/il_fullxfull.7807643539_33f7.jpg",
+        "title":"THE SHINING",
+        "year":"1980",
+        "rating":"R",
+        "genre":["Drama","Horror"],
+        "plot":"A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future."
+    },
+    {
+        "id": 68,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_.jpg",
+        "title":"THE GREAT DICTATOR",
+        "year":"1940",
+        "rating":"G",
+        "genre":["Comedy","Drama","War"],
+        "plot":"Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime."
+    },
+    {
+        "id": 69,
+        "poster":"https://m.media-amazon.com/images/I/710xAe4wYHS.jpg",
+        "title":"INGLOURIOUS BASTERDS",
+        "year":"2009",
+        "rating":"R",
+        "genre":["Adventure","Drama","War"],
+        "plot":"In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same."
+    },
+    {
+        "id": 70,
+        "poster":"https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_.jpg",
+        "title":"12TH FAIL",
+        "year":"2023",
+        "rating":"Approved",
+        "genre":["Biography","Drama"],
+        "plot":"The real-life story of IPS Officer Manoj Kumar Sharma and IRS Officer Shraddha Joshi."
+    },
+    {
+        "id": 71,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/Aliens1986-Sci-FiHorrorClassicHollywoodEnglishMoviePoster_27ec95b6-dc63-4032-90b1-cbf4b4068510.jpg?v=1634645757",
+        "title":"ALIENS",
+        "year":"1986",
+        "rating":"R",
+        "genre":["Action","Adventure","Horror"],
+        "plot":"Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring."
+    },
+    {
+        "id": 72,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_.jpg",
+        "title":"HIGH AND LOW",
+        "year":"1963",
+        "rating":"Approved",
+        "genre":["Crime","Drama","Mystery"],
+        "plot":"An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom."
+    },
+    {
+        "id": 73,
+        "poster":"https://images-cdn.ubuy.co.in/660feefbe021fe34f65b6f0c-good-will-hunting-movie-poster-27-x-40.jpg",
+        "title":"GOOD WILL HUNTING",
+        "year":"1997",
+        "rating":"R",
+        "genre":["Drama","Romance"],
+        "plot":"A therapist counsels Will Hunting, a janitor with a genius IQ."
+    },
+    {
+        "id": 74,
+        "poster":"https://i.pinimg.com/736x/dd/a9/a0/dda9a0f55225253f670ea3a34f9482e2.jpg",
+        "title":"AVENGERS: ENDGAME",
+        "year":"2019",
+        "rating":"PG-13",
+        "genre":["Action","Adventure","Sci-Fi"],
+        "plot":"After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+    },
+    {
+        "id": 75,
+        "poster":"https://m.media-amazon.com/images/I/81UjSDy8azL._AC_UF894,1000_QL80_.jpg",
+        "title":"THE DARK KNIGHT RISES",
+        "year":"2012",
+        "rating":"PG-13",
+        "genre":["Action","Crime","Drama"],
+        "plot":"Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again."
+    },
+    {
+        "id": 76,
+        "poster":"https://external-preview.redd.it/disney-pixars-coco-new-poster-v0-PvBS9BYDH9hTS6ird3tpUcIUVFcjpMhzrv5OfkdJ5LU.jpg?auto=webp&s=acbb58c768c53e71e449bc2a7f858420b1dbca7d",
+        "title":"COCO",
+        "year":"2017",
+        "rating":"PG",
+        "genre":["Animation","Adventure","Drama"],
+        "plot":"Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer."
+    },
+    {
+        "id": 77,
+        "poster":"https://i.etsystatic.com/35599031/r/il/c4816e/3933367999/il_1080xN.3933367999_tb35.jpg",
+        "title":"AMADEUS",
+        "year":"1984",
+        "rating":"PG",
+        "genre":["Biography","Drama","Music"],
+        "plot":"The life and work of Wolfgang Amadeus Mozart seen through the eyes of his contemporary and rival, Antonio Salieri."
+    },
+    {
+        "id": 78,
+        "poster":"https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+        "title":"TOY STORY",
+        "year":"1995",
+        "rating":"G",
+        "genre":["Animation","Adventure","Comedy"],
+        "plot":"A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him."
+    },
+    {
+        "id": 79,
+        "poster":"https://m.media-amazon.com/images/I/91ckLZfJiBL._AC_UF1000,1000_QL80_.jpg",
+        "title":"YOUR NAME.",
+        "year":"2016",
+        "rating":"Approved",
+        "genre":["Animation","Drama","Fantasy"],
+        "plot":"Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person."
+    },
+    {
+        "id": 80,
+        "poster":"https://m.media-amazon.com/images/M/MV5BNGU0MWZlMTUtM2Y3Ny00NGNmLWE5NmEtN2YxOWQzMGM3ZWYzXkEyXkFqcGc@._V1_.jpg",
+        "title":"DAS BOOT",
+        "year":"1981",
+        "rating":"Approved",
+        "genre":["Drama","War"],
+        "plot":"A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic life of a submariner in World War II."
+    },
+    {
+        "id": 81,
+        "poster":"https://m.media-amazon.com/images/I/51Q3k5+HDUL.jpg",
+        "title":"OLDBOY",
+        "year":"2003",
+        "rating":"R",
+        "genre":["Action","Drama","Mystery"],
+        "plot":"After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must track down his captor in five days."
+    },
+    {
+        "id": 82,
+        "poster":"https://m.media-amazon.com/images/I/51PvUkCVqOL.jpg",
+        "title":"BRAVEHEART",
+        "year":"1995",
+        "rating":"R",
+        "genre":["Biography","Drama","War"],
+        "plot":"Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England."
+    },
+    {
+        "id": 83,
+        "poster":"https://m.media-amazon.com/images/I/81RnyTu3arL.jpg",
+        "title":"PRINCESS MONONOKE",
+        "year":"1997",
+        "rating":"PG-13",
+        "genre":["Animation","Adventure","Fantasy"],
+        "plot":"While seeking to cure himself of a curse, young warrior Ashitaka stumbles into a conflict between the people of Iron Town and Princess Mononoke, a girl raised by wolves, who will stop at nothing to prevent the destruction of her home."
+    },
+    {
+        "id": 84,
+        "poster":"https://i.etsystatic.com/14140434/r/il/7226fe/1486440922/il_fullxfull.1486440922_4pgv.jpg",
+        "title":"DR. STRANGELOVE OR:HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB",
+        "year":"1964",
+        "rating":"PG",
+        "genre":["Comedy","War"],
+        "plot":"A mentally unstable American general orders a hydrogen bomb attack on the Soviet Union, triggering a path to global nuclear holocaust that a war room full of politicians and generals frantically tries to stop."
+    },
+    {
+        "id": 85,
+        "poster":"https://m.media-amazon.com/images/I/61NSZeiNF3L._AC_UF894,1000_QL80_.jpg",
+        "title":"3 IDIOTS",
+        "year":"2009",
+        "rating":"PG-13",
+        "genre":["Comedy","Drama"],
+        "plot":"Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them 'idiots' ."
+    },
+    {
+        "id": 86,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMDI1MDE0OTMtMmI2MS00Yjc2LTg2MTItMWExYTg5NzA1OGUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "title":"AMERICAN BEAUTY",
+        "year":"1999",
+        "rating":"R",
+        "genre":["Drama"],
+        "plot":"A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend."
+    },
+    {
+        "id": 87,
+        "poster":"https://m.media-amazon.com/images/M/MV5BYzEyMzQ1OTktZTljZi00OWQzLWE2ZmUtZjQyNzBjYjE1NTc0XkEyXkFqcGc@._V1_.jpg",
+        "title":"CAPERNAUM",
+        "year":"2018",
+        "rating":"R",
+        "genre":["Drama"],
+        "plot":"While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect."
+    },
+    {
+        "id": 88,
+        "poster":"https://i.etsystatic.com/13513569/r/il/d6f5da/1116900316/il_1080xN.1116900316_8d6n.jpg",
+        "title":"SINGIN' IN THE RAIN",
+        "year":"1952",
+        "rating":"G",
+        "genre":["Comedy","Music","Romance"],
+        "plot":"A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood."
+    },
+    {
+        "id": 89,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/Joker_-_Joaquin_Phoenix_-_Hollywood_Action_Movie_Poster_4d1b0644-dd78-42f8-996a-5d0c5bdc21b5.jpg?v=1573629455",
+        "title":"JOKER",
+        "year":"2019",
+        "rating":"R",
+        "genre":["Crime","Drama","Thriller"],
+        "plot":"Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City."
+    },
+    {
+        "id": 90,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_.jpg",
+        "title":"ONCE UPON A TIME IN AMERICA",
+        "year":"1984",
+        "rating":"R",
+        "genre":["Crime","Drama"],
+        "plot":"A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life."
+    },
+    {
+        "id": 91,
+        "poster":"https://assets.mubicdn.net/images/notebook/post_images/30022/images-w1400.jpg?1581694905",
+        "title":"COME AND SEE",
+        "year":"1985",
+        "rating":"Approved",
+        "genre":["Drama","Thriller","War"],
+        "plot":"After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II."
+    },
+    {
+        "id": 92,
+        "poster":"https://m.media-amazon.com/images/I/7193hhHCbhL._AC_UF894,1000_QL80_.jpg",
+        "title":"STAR WARS: EPISODE VI - RETURN OF THE JEDI",
+        "year":"1983",
+        "rating":"PG",
+        "genre":["Action","Adventure","Fantasy"],
+        "plot":"After rescuing Han Solo from Jabba the Hutt, the Rebel Alliance attempts to destroy the second Death Star while Luke struggles to help Darth Vader back from the dark side."
+    },
+    {
+        "id": 93,
+        "poster":"https://m.media-amazon.com/images/M/MV5BN2ZlMjIzZjctYzA2My00ZWYyLWI4ZjctMGI2NWYyNzFiZjAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "title":"REQUIEM FOR A DREAM",
+        "year":"2000",
+        "rating":"NC-17",
+        "genre":["Drama"],
+        "plot":"The drug-induced utopias of four Coney Island people are shattered when their addictions run deep."
+    },
+    {
+        "id": 94,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_.jpg",
+        "title":"TOY STORY 3",
+        "year":"2010",
+        "rating":"G",
+        "genre":["Animation","Adventure","Comedy"],
+        "plot":"The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home."
+    },
+    {
+        "id": 95,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMmNlZTk4ZjQtY2I5NS00NmNiLTlkNmUtYTc3YmE0ZTk3OGNiXkEyXkFqcGc@._V1_.jpg",
+        "title":"IKIRU",
+        "year":"1952",
+        "rating":"Approved",
+        "genre":["Drama"],
+        "plot":"A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer."
+    },
+    {
+        "id": 96,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_.jpg",
+        "title":"THE HUNT",
+        "year":"2012",
+        "rating":"R",
+        "genre":["Drama"],
+        "plot":"A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie."
+    },
+    {
+        "id": 97,
+        "poster":"https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_.jpg",
+        "title":"INCENDIES",
+        "year":"2010",
+        "rating":"R",
+        "genre":["Drama","Mystery","War"],
+        "plot":"Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes."
+    },
+    {
+        "id": 98,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/EternalSunshineOfTheSpotlessMind-JImCarrey-HollywoodCultClassicMoviePoster1_e64df3b3-9a2f-4c57-a19d-7d3ec31a256f.jpg?v=1612860963",
+        "title":"ETERNAL SUNSHINE OF THE SPOTLESS MIND",
+        "year":"2004",
+        "rating":"R",
+        "genre":["Drama","Romance","Sci-Fi"],
+        "plot":"When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories forever."
+    },
+    {
+        "id": 99,
+        "poster":"https://m.media-amazon.com/images/M/MV5BNDdhMzVhOWQtNDU2Mi00ZmZmLWJiZDMtY2QxMjhjY2Y1ZTI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "title":"THE APARTMENT",
+        "year":"1960",
+        "rating":"Approved",
+        "genre":["Comedy","Drama","Romance"],
+        "plot":"A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but office politics and his own romantic hopes complicate matters."
+    },
+    {
+        "id": 100,
+        "poster":"https://www.tallengestore.com/cdn/shop/products/1200px-Lawrence_of_arabia_ver3_xxlg_large.jpg?v=1633007395",
+        "title":"LAWRENCE OF ARABIA",
+        "year":"1962",
+        "rating":"Approved",
+        "genre":["Adventure","Biography","Drama"],
+        "plot":"The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks."
+    },
+    {
+        "id": 101,
+        "poster":"https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_.jpg",
+        "title":"2001: A SPACE ODYSSEY",
+        "year":"1968",
+        "rating":"G",
+        "genre":["Adventure","Sci-Fi"],
+        "plot":"When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins."
+    },
+    {
+        "id": 102,
+        "poster":"https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "title":"HEAT",
+        "year":"1995",
+        "rating":"R",
+        "genre":["Action","Crime","Drama"],
+        "plot":"A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist."
+    },
+    {
+        "id":103 ,
+        "poster":"https://m.media-amazon.com/images/I/71ghDJdWm5L.jpg",
+        "title":"RESERVOIR DOGS",
+        "year":"1992",
+        "rating":"R",
+        "genre":["Crime","Thriller"],
+        "plot":"When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant."
+    },
+    {
+        "id": 104,
+        "poster":"https://m.media-amazon.com/images/I/71H1ywI0SCL.jpg",
+        "title":"SCARFACE",
+        "year":"1983",
+        "rating":"R",
+        "genre":["Crime","Drama"],
+        "plot":"In the 1980s, a determined criminal-minded Cuban immigrant becomes the biggest drug smuggler in Miami, and is eventually undone by his own drug addiction."
+    },
+    {
+        "id": 105,
+        "poster":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Double_Indemnity_%281944_poster%29.jpg",
+        "title":"DOUBLE INDEMNITY",
+        "year":"1944",
+        "rating":"Approved",
+        "genre":["Crime","Drama","Film-Noir"],
+        "plot":"An insurance representative is seduced by a dissatisfied housewife into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, a claims investigator."
+    },
+    {
+        "id": 106,
+        "poster":"https://upload.wikimedia.org/wikipedia/en/0/05/Up_%282009_film%29.jpg",
+        "title":"UP",
+        "year":"2009",
+        "rating":"PG",
+        "genre":["Animation","Adventure","Comedy"],
+        "plot":"78-year-old Carl Fredricksen travels to South America in his house equipped with balloons, inadvertently taking a young stowaway."
+    },
+    {
+        "id": 107,
+        "poster":"https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "title":"NORTH BY NORTHWEST",
+        "year":"1959",
+        "rating":"Approved",
+        "genre":["Adventure","Drama","Mystery"],
+        "plot":"A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt."
+    },
+    {
+        "id": 108,
+        "poster":"https://m.media-amazon.com/images/M/MV5BNjVmMTlkNGYtYTM2OC00Yjc2LWIyYmQtMDY4ZmU1MWRlMjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "title":"LIKE STARS ON EARTH",
+        "year":"2007",
+        "rating":"PG",
+        "genre":["Drama","Family"],
+        "plot":"A young boy is thought to be nothing but a lazy troublemaker until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school."
+    },
+    {
+        "id": 109,
+        "poster":"https://m.media-amazon.com/images/I/81p1ZoHZLaL._AC_UF894,1000_QL80_.jpg",
+        "title":"FULL METAL JACKET",
+        "year":"1987",
+        "rating":"R",
+        "genre":["Drama","War"],
+        "plot":"A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue."
+    },
+    {
+        "id": 110,
+        "poster":"https://m.media-amazon.com/images/I/91FM4XfEUIL.jpg",
+        "title":"M",
+        "year":"1931",
+        "rating":"Approved",
+        "genre":["Crime","Mystery","Thriller"],
+        "plot":"When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt."
+    },
+    {
+        "id": 111,
+        "poster":"https://m.media-amazon.com/images/I/8123PDhL+OL.jpg",
+        "title":"CITIZEN KANE",
+        "year":"1941",
+        "rating":"PG",
+        "genre":["Drama","Mystery"],
+        "plot":"Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'"
+    }
+]
+ 
