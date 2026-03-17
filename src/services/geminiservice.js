@@ -12,34 +12,45 @@ const groq = new Groq({
 
 // listModels()
 export async function vibeSearch(query) {
-    const select = movies.map(m=>(
+    const select = movies.map(m => (
         {
-            id:m.id,
-            genre:m.genre,
-            title:m.title,
-            plot:m.plot
+            id: m.id,
+            genre: m.genre,
+            title: m.title,
+            plot: m.plot
         }
     ))
     const prompt = `
-You are a movie recommendation AI.
+You are a strict movie recommendation AI.
 User vibe: "${query}"
-Here is the movie database:
+Movie database:
 ${JSON.stringify(select)}
-Return ONLY a JSON array like this:
+ RULES (VERY IMPORTANT - MUST FOLLOW):
+1. If the user's query contains:
+   - adult/sexual content
+   - pornographic intent
+   - terrorism/violence/extremism
+   - illegal or harmful intent
+ Then you MUST return ONLY this exact JSON:
 [
- { "id": 1, "reason": "Matches the space and emotional theme" },
- { "id": 4, "reason": "Fits the relaxing adventure vibe" }
+  { "id": 0, "reason": "inappropriate" }
 ]
-Choose the best 12 movies.
--Find the correct match using your immense intelligense
--If user wants some inappropriate things then tell to search another thing
--From my plot and genre details, your knowledege give the reason section well written and structured
--It isn't mandatory to always  provide 12 movies if you found close link then only return
--Don't give opposite genre thing like if user need "comedy" don't give "horror" movie 
-`
+2. DO NOT return anything else in that case.
+3. Otherwise:
+- Return a JSON array of movie matches
+- Max 12 movies
+- Each item:
+  { "id": number, "reason": string }
+4. DO NOT include any explanation outside JSON.
+5. Be strict. Do NOT mix both cases.
+`;
     const response = await groq.chat.completions.create({
         model: "meta-llama/llama-4-scout-17b-16e-instruct",
         messages: [
+            {
+                role:"system",
+                content:"You are a strict JSON-only API. Always follow rules exactly."
+            },
             {
                 role: "user",
                 content: prompt

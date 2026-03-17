@@ -12,7 +12,6 @@ const Navbar = () => {
                     <li><Link to="/" className="hover:text-sky-400 transition">Home</Link></li>
                     <li><Link to="/movies" className="hover:text-sky-400 transition"> Movies</Link></li>
                     <li> <Link to="/vibesearch" className="hover:text-sky-400 transition"> Vibe Search</Link></li>
-                    <li> <Link to="/trending" className="hover:text-sky-400 transition"> Trending</Link></li>
                 </ul>
                 <button onClick={() => setOpen(!open)} className="md:hidden flex flex-col gap-1">
                     <span className={`w-6 h-0.5 bg-white transition-all duration-300 ${open ? "rotate-45 translate-y-1.5" : ""}`}></span>
@@ -25,7 +24,6 @@ const Navbar = () => {
                     <Link to="/" onClick={() => setOpen(false)} className="hover:text-sky-400">Home</Link>
                     <Link to="/movies" onClick={() => setOpen(false)} className="hover:text-sky-400">Movies</Link>
                     <Link to="/vibesearch" onClick={() => setOpen(false)} className="hover:text-sky-400">Vibe Search</Link>
-                    <Link to="/trending" onClick={() => setOpen(false)} className="hover:text-sky-400">Trending</Link>
                 </div>
             </div>
         </>
