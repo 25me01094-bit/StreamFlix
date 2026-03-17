@@ -7,10 +7,7 @@ import Card from "../assets/card";
 const MovieShow = () => {
     const [search, setSearch] = useState("");
     const [activeGenres, setActiveGenres] = useState([]);
-    const allGenres = [
-        "All",
-        ...new Set(moviedata.flatMap((movie) => movie.genre))
-    ];
+    const allGenres = [ "All", ...new Set(moviedata.flatMap((movie) => movie.genre)) ];
     const toggleGenre = (genre) => {
         if (genre === "All") {
             setActiveGenres([]);
@@ -29,14 +26,13 @@ const MovieShow = () => {
         const matchesGenre =
             activeGenres.length === 0 ||
             activeGenres.every((g) => item.genre.includes(g));
-
         return matchesSearch && matchesGenre;
     });
     return (
         <div className="bg-black min-h-screen">
             <Navbar />
             <div className="px-6 pt-10 pb-4 text-center">
-                <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-sky-400 via-purple-500 to-pink-500 bg-clip-text text-transparent">
+                <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-teal-400 via-cyan-500 to-blue-500 bg-clip-text text-transparent">
                     Explore Movies
                 </h1>
                 <p className="text-slate-400 mt-3 text-lg">
@@ -91,7 +87,6 @@ const MovieShow = () => {
                 </div>
             </div>
             <div className="min-h-screen bg-gradient-to-b from-black/90 via-slate-900 to-slate-900 text-white px-6 flex flex-row flex-wrap items-center gap-14 justify-center">
-
                 {filteredMovies.length > 0 ? (
                     filteredMovies.map((item) => (
                         <Card
@@ -102,8 +97,7 @@ const MovieShow = () => {
                             rating={item.rating}
                             genre={item.genre}
                             plot={item.plot}
-                            reason=""
-                        />
+                            reason="" />
                     ))
                 ) : (
                     <p className="text-slate-400 text-lg mt-0 mb-52">

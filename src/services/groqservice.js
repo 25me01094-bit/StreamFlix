@@ -5,12 +5,6 @@ const groq = new Groq({
     apiKey: import.meta.env.VITE_GROQ_API_KEY,
     dangerouslyAllowBrowser: true
 })
-// async function listModels() {
-//   const models = await groq.models.list()
-//   console.log(models)
-// }
-
-// listModels()
 export async function vibeSearch(query) {
     const select = movies.map(m => (
         {
@@ -61,7 +55,6 @@ ${JSON.stringify(select)}
     try {
         const jsonMatch = text.match(/\[[\s\S]*\]/)
         if (!jsonMatch) throw new Error("No JSON found")
-
         const data = JSON.parse(jsonMatch[0])
         console.log(data)
         return data

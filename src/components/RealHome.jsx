@@ -3,7 +3,6 @@ import Navbar from "./navbar";
 import Footer from "./footer";
 import { Link, useNavigate } from "react-router-dom";
 import { FaMagic, FaRobot, FaBolt, FaLaptop, FaMobileAlt, FaClipboard, FaFilm } from "react-icons/fa";
-import { FaTentArrowTurnLeft } from "react-icons/fa6";
 
 const RealHome = () => {
     const [results, setResults] = useState([]);
