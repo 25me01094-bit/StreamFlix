@@ -1,16 +1,43 @@
-# React + Vite
+#  StreamFlix — Vibe-Based Movie Discovery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Discover movies not by name… but by how you feel.
 
-Currently, two official plugins are available:
+StreamFlix is a modern movie discovery web app that allows users to search for films using natural language vibes like
+*"dark psychological thriller"* or *"feel-good comedy"* — powered by AI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+##  Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+###  Vibe Search (AI-Powered)
 
-## Expanding the ESLint configuration
+* Describe your mood in plain English
+* AI returns curated movie recommendations
+* Each result includes a **reason** why it matches your vibe
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+###  Genre-Based Filtering
+
+* Browse movies using dynamic genre filters
+* Multi-select genres for precise discovery
+* Smooth horizontal scrolling UI
+
+###  Interactive Movie Cards
+
+* Hover (desktop) or tap (mobile) to reveal details
+* Displays:
+
+  * Rating 
+  * Year 
+  * Genre 
+  * Plot 
+
+###  Smart Content Moderation
+
+* Detects inappropriate queries
+* Blocks unsafe results gracefully
+
+###  Modern UI/UX
+
+* Fully responsive design
+* Smooth animations and transitions
+* Dark theme with gradient acc
